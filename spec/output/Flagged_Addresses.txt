@@ -1,0 +1,1241 @@
+{:number=>20811, :name=>"100", :suffix=>"TH", :type=>"SE", :dir=>nil, :flag=>true}
+{:address=>["25826", "129"], :flag=>true}
+{:address=>["19434", "1/2", "SE", "194TH", "ST"], :flag=>true}
+{:address=>["420", "ALDER", "LN"], :flag=>true}
+{:address=>["331", "ALDER", "LN"], :flag=>true}
+{:address=>["422", "ALDER", "LN"], :flag=>true}
+{:address=>["335", "ALDER", "LN"], :flag=>true}
+{:address=>["311", "ALDER", "LN"], :flag=>true}
+{:address=>["411", "ALDER", "LN"], :flag=>true}
+{:address=>["407", "ALDER", "LN"], :flag=>true}
+{:address=>["202", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["306", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["419", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["210", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["422", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["507", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["525", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["603", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["526", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["513", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["535", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["425", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["428", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["519", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["602", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["606", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["539", "ALEXANDER", "AVE"], :flag=>true}
+{:address=>["26925", "ARDEN", "CT"], :flag=>true}
+{:address=>["26911", "ARDEN", "CT"], :flag=>true}
+{:address=>["26926", "ARDEN", "CT"], :flag=>true}
+{:address=>["26921", "ARDEN", "CT"], :flag=>true}
+{:address=>["26820", "ARDEN", "CT"], :flag=>true}
+{:address=>["26901", "ARDEN", "CT"], :flag=>true}
+{:address=>["26924", "ARDEN", "CT"], :flag=>true}
+{:address=>["26828", "ARDEN", "CT"], :flag=>true}
+{:address=>["26915", "ARDEN", "CT"], :flag=>true}
+{:address=>["26910", "ARDEN", "CT"], :flag=>true}
+{:address=>["26902", "ARDEN", "CT"], :flag=>true}
+{:address=>["26916", "ARDEN", "CT"], :flag=>true}
+{:address=>["26814", "ARDEN", "CT"], :flag=>true}
+{:address=>["26901", "AVON", "CT"], :flag=>true}
+{:address=>["26804", "AVON", "CT"], :flag=>true}
+{:address=>["26818", "AVON", "CT"], :flag=>true}
+{:address=>["26809", "AVON", "CT"], :flag=>true}
+{:address=>["26902", "AVON", "CT"], :flag=>true}
+{:address=>["26908", "AVON", "CT"], :flag=>true}
+{:address=>["26913", "AVON", "CT"], :flag=>true}
+{:address=>["26817", "AVON", "CT"], :flag=>true}
+{:address=>["26914", "AVON", "CT"], :flag=>true}
+{:address=>["26810", "AVON", "CT"], :flag=>true}
+{:address=>["26802", "AVON", "CT"], :flag=>true}
+{:address=>["26925", "AVON", "CT"], :flag=>true}
+{:address=>["26801", "AVON", "CT"], :flag=>true}
+{:address=>["26803", "AVON", "CT"], :flag=>true}
+{:address=>["26919", "AVON", "CT"], :flag=>true}
+{:address=>["26920", "AVON", "CT"], :flag=>true}
+{:address=>["26926", "AVON", "CT"], :flag=>true}
+{:address=>["26905", "AVON", "CT"], :flag=>true}
+{:address=>["26708", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26720", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26726", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26627", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26732", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26738", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26714", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26621", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26709", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26733", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26715", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26721", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26703", "BRISTOL", "CT"], :flag=>true}
+{:address=>["26727", "BRISTOL", "CT"], :flag=>true}
+{:address=>["3912", "CAMBRIDGE", "CT"], :flag=>true}
+{:address=>["3904", "CAMBRIDGE", "CT"], :flag=>true}
+{:address=>["3901", "CAMBRIDGE", "CT"], :flag=>true}
+{:address=>["3903", "CAMBRIDGE", "CT"], :flag=>true}
+{:address=>["3911", "CAMBRIDGE", "CT"], :flag=>true}
+{:address=>["26421", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26519", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26513", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26403", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26429", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26430", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26405", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26414", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26426", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26516", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26407", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26420", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26410", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26402", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26520", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26528", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["26525", "CAMBRIDGE", "DR"], :flag=>true}
+{:address=>["27015", "CAMBRIDGE", "PL"], :flag=>true}
+{:address=>["27022", "CAMBRIDGE", "PL"], :flag=>true}
+{:address=>["27021", "CAMBRIDGE", "PL"], :flag=>true}
+{:address=>["27020", "CAMBRIDGE", "PL"], :flag=>true}
+{:address=>["27023", "CAMBRIDGE", "PL"], :flag=>true}
+{:address=>["27007", "CAMBRIDGE", "PL"], :flag=>true}
+{:address=>["27016", "CAMBRIDGE", "PL"], :flag=>true}
+{:address=>["3605", "CANTERBURY", "LN"], :flag=>true}
+{:address=>["3547", "CANTERBURY", "LN"], :flag=>true}
+{:address=>["3541", "CANTERBURY", "LN"], :flag=>true}
+{:address=>["3531", "CANTERBURY", "LN"], :flag=>true}
+{:address=>["3525", "CANTERBURY", "LN"], :flag=>true}
+{:address=>["3517", "CANTERBURY", "LN"], :flag=>true}
+{:address=>["3516", "CANTERBURY", "LN"], :flag=>true}
+{:address=>["3526", "CANTERBURY", "LN"], :flag=>true}
+{:address=>["3534", "CANTERBURY", "LN"], :flag=>true}
+{:address=>["3540", "CANTERBURY", "LN"], :flag=>true}
+{:address=>["3548", "CANTERBURY", "LN"], :flag=>true}
+{:address=>["9003", "CANYON", "DR"], :flag=>true}
+{:address=>["9005", "CANYON", "DR"], :flag=>true}
+{:address=>["9013", "CANYON", "DR"], :flag=>true}
+{:address=>["9009", "CANYON", "DR"], :flag=>true}
+{:address=>["9063", "CANYON", "DR"], :flag=>true}
+{:address=>["9015", "CANYON", "DR"], :flag=>true}
+{:address=>["9045", "CANYON", "DR"], :flag=>true}
+{:address=>["9031", "CANYON", "DR"], :flag=>true}
+{:address=>["9404", "CANYON", "DR"], :flag=>true}
+{:address=>["9440", "CANYON", "DR"], :flag=>true}
+{:address=>["26854", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26847", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26862", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27029", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26846", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27028", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26833", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26843", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27016", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26837", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27005", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26830", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27026", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26861", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27010", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27011", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26825", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27024", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27004", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27021", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27032", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26838", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26853", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["26824", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["27022", "CARDIFF", "AVE"], :flag=>true}
+{:address=>["4418", "CARNABY", "ST"], :flag=>true}
+{:address=>["4237", "CARNABY", "ST"], :flag=>true}
+{:address=>["4232", "CARNABY", "ST"], :flag=>true}
+{:address=>["4426", "CARNABY", "ST"], :flag=>true}
+{:address=>["4216", "CARNABY", "ST"], :flag=>true}
+{:address=>["4411", "CARNABY", "ST"], :flag=>true}
+{:address=>["4523", "CARNABY", "ST"], :flag=>true}
+{:address=>["4530", "CARNABY", "ST"], :flag=>true}
+{:address=>["4254", "CARNABY", "ST"], :flag=>true}
+{:address=>["4524", "CARNABY", "ST"], :flag=>true}
+{:address=>["4405", "CARNABY", "ST"], :flag=>true}
+{:address=>["4406", "CARNABY", "ST"], :flag=>true}
+{:address=>["4412", "CARNABY", "ST"], :flag=>true}
+{:address=>["4224", "CARNABY", "ST"], :flag=>true}
+{:address=>["4262", "CARNABY", "ST"], :flag=>true}
+{:address=>["4248", "CARNABY", "ST"], :flag=>true}
+{:address=>["4240", "CARNABY", "ST"], :flag=>true}
+{:address=>["4227", "CARNABY", "ST"], :flag=>true}
+{:address=>["26433", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26427", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26323", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26410", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26415", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26428", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26701", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26615", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26706", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26828", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26815", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26807", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26610", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26702", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26626", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26720", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26631", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26609", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26616", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26703", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26732", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26821", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26827", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26622", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26628", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26710", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26623", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26629", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26709", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26726", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26632", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26822", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26714", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26630", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26806", "CARNABY", "WAY"], :flag=>true}
+{:address=>["26624", "CARNABY", "WAY"], :flag=>true}
+{:address=>["820", "CARTER", "PL"], :flag=>true}
+{:address=>["815", "CARTER", "PL"], :flag=>true}
+{:address=>["808", "CARTER", "PL"], :flag=>true}
+{:address=>["822", "CARTER", "PL"], :flag=>true}
+{:address=>["807", "CARTER", "PL"], :flag=>true}
+{:address=>["814", "CARTER", "PL"], :flag=>true}
+{:address=>["819", "CARTER", "PL"], :flag=>true}
+{:address=>["602", "CARTER", "ST"], :flag=>true}
+{:address=>["635", "CLEARVIEW", "PT"], :flag=>true}
+{:address=>["629", "CLEARVIEW", "PT"], :flag=>true}
+{:address=>["221", "COLE", "ST"], :flag=>true}
+{:address=>["309", "COLE", "ST"], :flag=>true}
+{:address=>["315", "COLE", "ST"], :flag=>true}
+{:address=>["627", "CREST", "AVE"], :flag=>true}
+{:address=>["717", "CREST", "AVE"], :flag=>true}
+{:address=>["813", "CREST", "AVE"], :flag=>true}
+{:address=>["917", "CREST", "AVE"], :flag=>true}
+{:address=>["613", "CREST", "AVE"], :flag=>true}
+{:address=>["808", "CREST", "AVE"], :flag=>true}
+{:address=>["705", "CREST", "AVE"], :flag=>true}
+{:address=>["727", "CREST", "AVE"], :flag=>true}
+{:address=>["821", "CREST", "AVE"], :flag=>true}
+{:address=>["708", "CREST", "AVE"], :flag=>true}
+{:address=>["903", "CREST", "AVE"], :flag=>true}
+{:address=>["845", "CREST", "AVE"], :flag=>true}
+{:address=>["619", "CREST", "AVE"], :flag=>true}
+{:address=>["711", "CREST", "AVE"], :flag=>true}
+{:address=>["805", "CREST", "AVE"], :flag=>true}
+{:address=>["720", "CREST", "AVE"], :flag=>true}
+{:address=>["911", "CREST", "AVE"], :flag=>true}
+{:address=>["606", "CREST", "AVE"], :flag=>true}
+{:address=>["840", "CREST", "AVE"], :flag=>true}
+{:address=>["605", "CREST", "AVE"], :flag=>true}
+{:address=>["1015", "CREST", "PL"], :flag=>true}
+{:address=>["1008", "CREST", "PL"], :flag=>true}
+{:address=>["1009", "CREST", "PL"], :flag=>true}
+{:address=>["1010", "CREST", "PL"], :flag=>true}
+{:address=>["1005", "CREST", "PL"], :flag=>true}
+{:address=>["1014", "CREST", "PL"], :flag=>true}
+{:address=>["26608", "DOVER", "CT"], :flag=>true}
+{:address=>["26625", "DOVER", "CT"], :flag=>true}
+{:address=>["26615", "DOVER", "CT"], :flag=>true}
+{:address=>["26601", "DOVER", "CT"], :flag=>true}
+{:address=>["26616", "DOVER", "CT"], :flag=>true}
+{:address=>["26603", "DOVER", "CT"], :flag=>true}
+{:address=>["26604", "DOVER", "CT"], :flag=>true}
+{:address=>["26622", "DOVER", "CT"], :flag=>true}
+{:address=>["26607", "DOVER", "CT"], :flag=>true}
+{:address=>["26840", "DOWNING", "AVE"], :flag=>true}
+{:address=>["26828", "DOWNING", "AVE"], :flag=>true}
+{:address=>["26833", "DOWNING", "AVE"], :flag=>true}
+{:address=>["26819", "DOWNING", "AVE"], :flag=>true}
+{:address=>["26841", "DOWNING", "AVE"], :flag=>true}
+{:address=>["26848", "DOWNING", "AVE"], :flag=>true}
+{:address=>["26854", "DOWNING", "AVE"], :flag=>true}
+{:address=>["26862", "DOWNING", "AVE"], :flag=>true}
+{:address=>["27004", "DOWNING", "AVE"], :flag=>true}
+{:address=>["26811", "DOWNING", "AVE"], :flag=>true}
+{:address=>["26849", "DOWNING", "AVE"], :flag=>true}
+{:address=>["26857", "DOWNING", "AVE"], :flag=>true}
+{:address=>["26825", "DOWNING", "AVE"], :flag=>true}
+{:address=>["858", "EAST", "LN"], :flag=>true}
+{:address=>["836", "EAST", "LN"], :flag=>true}
+{:address=>["849", "EAST", "LN"], :flag=>true}
+{:address=>["850", "EAST", "LN"], :flag=>true}
+{:address=>["833", "EAST", "LN"], :flag=>true}
+{:address=>["857", "EAST", "LN"], :flag=>true}
+{:address=>["844", "EAST", "LN"], :flag=>true}
+{:address=>["841", "EAST", "LN"], :flag=>true}
+{:address=>["818", "ELLIS", "PL"], :flag=>true}
+{:address=>["822", "ELLIS", "PL"], :flag=>true}
+{:address=>["26414", "ETON", "CT"], :flag=>true}
+{:address=>["26406", "ETON", "CT"], :flag=>true}
+{:address=>["26402", "ETON", "CT"], :flag=>true}
+{:address=>["26405", "ETON", "CT"], :flag=>true}
+{:address=>["4607", "FENWICK", "CT"], :flag=>true}
+{:address=>["4603", "FENWICK", "CT"], :flag=>true}
+{:address=>["4619", "FENWICK", "CT"], :flag=>true}
+{:address=>["4602", "FENWICK", "CT"], :flag=>true}
+{:address=>["4601", "FENWICK", "CT"], :flag=>true}
+{:address=>["4610", "FENWICK", "CT"], :flag=>true}
+{:address=>["4606", "FENWICK", "CT"], :flag=>true}
+{:address=>["4604", "FENWICK", "CT"], :flag=>true}
+{:address=>["4622", "FENWICK", "CT"], :flag=>true}
+{:address=>["4611", "FENWICK", "CT"], :flag=>true}
+{:address=>["4616", "FENWICK", "CT"], :flag=>true}
+{:address=>["4623", "FENWICK", "CT"], :flag=>true}
+{:address=>["1007", "GARFIELD", "AVE"], :flag=>true}
+{:address=>["920", "GARFIELD", "AVE"], :flag=>true}
+{:address=>["425", "GLENWOOD", "LN"], :flag=>true}
+{:address=>["430", "GLENWOOD", "LN"], :flag=>true}
+{:address=>["4416", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4423", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4611", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4422", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4616", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4517", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4516", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4523", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4504", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4622", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4511", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4610", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4510", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4505", "HAMPTON", "CT"], :flag=>true}
+{:address=>["4417", "HAMPTON", "CT"], :flag=>true}
+{:address=>["3930", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3550", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3424", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3708", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3701", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3615", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4030", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3536", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4124", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3726", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3904", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3822", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3606", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3922", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4410", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4108", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3543", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3721", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4014", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3729", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4130", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3617", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3816", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3542", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3412", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3702", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3404", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3528", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3504", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3512", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3601", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3535", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4022", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3815", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3621", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3628", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3716", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3625", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3609", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3807", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3802", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3914", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4116", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3819", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3438", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3913", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3903", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4105", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3917", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4029", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4411", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4015", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4129", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4119", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4023", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["3925", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4113", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4001", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["4007", "HAMPTON", "WAY"], :flag=>true}
+{:address=>["25520", "HAWLEY", "RD"], :flag=>true}
+{:address=>["505", "HAWLEY", "RD"], :flag=>true}
+{:address=>["26508", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26425", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26502", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26511", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26514", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26503", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26517", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26629", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26536", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26528", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26520", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26525", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26531", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26608", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26614", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26620", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26603", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26609", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["26623", "HIGHLAND", "AVE"], :flag=>true}
+{:address=>["630", "HILLCREST", "AVE"], :flag=>true}
+{:address=>["612", "HILLCREST", "AVE"], :flag=>true}
+{:address=>["616", "HILLCREST", "AVE"], :flag=>true}
+{:address=>["605", "HILLCREST", "AVE"], :flag=>true}
+{:address=>["628", "HILLCREST", "AVE"], :flag=>true}
+{:address=>["1862", "IVES", "AVE"], :flag=>true}
+{:address=>["1411", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1421", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1423", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1427", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1434", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1432", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1430", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1420", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1412", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1611", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1605", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1603", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1601", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1602", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1612", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1608", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["1624", "W", "JAMES", "LN"], :flag=>true}
+{:address=>["4610", "KENT", "CT"], :flag=>true}
+{:address=>["4629", "KENT", "CT"], :flag=>true}
+{:address=>["4640", "KENT", "CT"], :flag=>true}
+{:address=>["4604", "KENT", "CT"], :flag=>true}
+{:address=>["4635", "KENT", "CT"], :flag=>true}
+{:address=>["4634", "KENT", "CT"], :flag=>true}
+{:address=>["4605", "KENT", "CT"], :flag=>true}
+{:address=>["4622", "KENT", "CT"], :flag=>true}
+{:address=>["4617", "KENT", "CT"], :flag=>true}
+{:address=>["4628", "KENT", "CT"], :flag=>true}
+{:address=>["4611", "KENT", "CT"], :flag=>true}
+{:address=>["4616", "KENT", "CT"], :flag=>true}
+{:address=>["4623", "KENT", "CT"], :flag=>true}
+{:address=>["837", "KIMBERLY", "AVE"], :flag=>true}
+{:address=>["828", "KIMBERLY", "AVE"], :flag=>true}
+{:address=>["831", "KIMBERLY", "AVE"], :flag=>true}
+{:address=>["855", "KIMBERLY", "AVE"], :flag=>true}
+{:address=>["842", "KIMBERLY", "AVE"], :flag=>true}
+{:address=>["808", "KIMBERLY", "AVE"], :flag=>true}
+{:address=>["809", "KIMBERLY", "AVE"], :flag=>true}
+{:address=>["825", "KIMBERLY", "AVE"], :flag=>true}
+{:address=>["845", "KIMBERLY", "AVE"], :flag=>true}
+{:address=>["846", "KIMBERLY", "AVE"], :flag=>true}
+{:address=>["817", "KIMBERLY", "AVE"], :flag=>true}
+{:address=>["605", "KIRKWOOD", "AVE"], :flag=>true}
+{:address=>["616", "KIRKWOOD", "AVE"], :flag=>true}
+{:address=>["624", "KIRKWOOD", "AVE"], :flag=>true}
+{:address=>["738", "LENORA", "AVE"], :flag=>true}
+{:address=>["712", "LENORA", "AVE"], :flag=>true}
+{:address=>["800", "LENORA", "AVE"], :flag=>true}
+{:address=>["720", "LENORA", "AVE"], :flag=>true}
+{:address=>["730", "LENORA", "AVE"], :flag=>true}
+{:address=>["801", "LENORA", "AVE"], :flag=>true}
+{:address=>["747", "LENORA", "AVE"], :flag=>true}
+{:address=>["307", "LINCOLN", "AVE"], :flag=>true}
+{:address=>["110", "LINCOLN", "AVE"], :flag=>true}
+{:address=>["26429", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26405", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26402", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26406", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26509", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26401", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26503", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26517", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26438", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26624", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26616", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26608", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26534", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26524", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26627", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26611", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26529", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26523", "MANCHESTER", "AVE"], :flag=>true}
+{:address=>["26607", "MANCHESTER", "CT"], :flag=>true}
+{:address=>["26601", "MANCHESTER", "CT"], :flag=>true}
+{:address=>["26545", "MANCHESTER", "CT"], :flag=>true}
+{:address=>["26537", "MANCHESTER", "CT"], :flag=>true}
+{:address=>["3641", "MANCHESTER", "CT"], :flag=>true}
+{:address=>["3640", "MANCHESTER", "CT"], :flag=>true}
+{:address=>["3636", "MANCHESTER", "CT"], :flag=>true}
+{:address=>["1529", "MAPLE", "LN"], :flag=>true}
+{:address=>["1622", "MAPLE", "LN"], :flag=>true}
+{:address=>["1510", "MAPLE", "LN"], :flag=>true}
+{:address=>["1621", "MAPLE", "LN"], :flag=>true}
+{:address=>["1540", "MAPLE", "LN"], :flag=>true}
+{:address=>["1406", "MAPLE", "LN"], :flag=>true}
+{:address=>["1519", "MAPLE", "LN"], :flag=>true}
+{:address=>["1427", "MAPLE", "LN"], :flag=>true}
+{:address=>["1720", "MAPLE", "LN"], :flag=>true}
+{:address=>["1536", "MAPLE", "LN"], :flag=>true}
+{:address=>["1419", "MAPLE", "LN"], :flag=>true}
+{:address=>["1629", "MAPLE", "LN"], :flag=>true}
+{:address=>["1633", "MAPLE", "LN"], :flag=>true}
+{:address=>["1613", "MAPLE", "LN"], :flag=>true}
+{:address=>["1609", "MAPLE", "LN"], :flag=>true}
+{:address=>["1605", "MAPLE", "LN"], :flag=>true}
+{:address=>["1601", "MAPLE", "LN"], :flag=>true}
+{:address=>["1617", "MAPLE", "LN"], :flag=>true}
+{:address=>["1625", "MAPLE", "LN"], :flag=>true}
+{:address=>["1802", "MAPLE", "LN"], :flag=>true}
+{:address=>["1804", "MAPLE", "LN"], :flag=>true}
+{:address=>["1806", "MAPLE", "LN"], :flag=>true}
+{:address=>["1812", "MAPLE", "LN"], :flag=>true}
+{:address=>["1814", "MAPLE", "LN"], :flag=>true}
+{:address=>["1816", "MAPLE", "LN"], :flag=>true}
+{:address=>["1822", "MAPLE", "LN"], :flag=>true}
+{:address=>["1828", "MAPLE", "LN"], :flag=>true}
+{:address=>["1824", "MAPLE", "LN"], :flag=>true}
+{:address=>["1820", "MAPLE", "LN"], :flag=>true}
+{:address=>["1818", "MAPLE", "LN"], :flag=>true}
+{:address=>["1810", "MAPLE", "LN"], :flag=>true}
+{:address=>["1808", "MAPLE", "LN"], :flag=>true}
+{:address=>["1826", "MAPLE", "LN"], :flag=>true}
+{:address=>["834", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["829", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["812", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["837", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["848", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["826", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["804", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["737", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["847", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["731", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["709", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["723", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["736", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["707", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["842", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["710", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["818", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["821", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["807", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["855", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["717", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["815", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["730", "MAPLEWOOD", "AVE"], :flag=>true}
+{:address=>["822", "MARION", "PL"], :flag=>true}
+{:address=>["807", "MARION", "PL"], :flag=>true}
+{:address=>["826", "MARION", "PL"], :flag=>true}
+{:address=>["830", "MARION", "PL"], :flag=>true}
+{:address=>["819", "MARION", "PL"], :flag=>true}
+{:address=>["806", "MARION", "PL"], :flag=>true}
+{:address=>["840", "MARION", "PL"], :flag=>true}
+{:address=>["824", "MARION", "PL"], :flag=>true}
+{:address=>["815", "MARION", "PL"], :flag=>true}
+{:address=>["820", "MARION", "PL"], :flag=>true}
+{:address=>["836", "MARION", "PL"], :flag=>true}
+{:address=>["610", "MARION", "ST"], :flag=>true}
+{:address=>["710", "MARION", "ST"], :flag=>true}
+{:address=>["621", "MARION", "ST"], :flag=>true}
+{:address=>["620", "MARION", "ST"], :flag=>true}
+{:address=>["718", "MARION", "ST"], :flag=>true}
+{:address=>["707", "MARION", "ST"], :flag=>true}
+{:address=>["611", "MARION", "ST"], :flag=>true}
+{:address=>["702", "MARION", "ST"], :flag=>true}
+{:address=>["701", "MARION", "ST"], :flag=>true}
+{:address=>["328", "1/2", "W", "MEEKER", "ST"], :flag=>true}
+{:address=>["208", "1/2", "E", "MORTON", "ST"], :flag=>true}
+{:address=>["18600", "MUNAO", "MEMORIAL", "DR"], :flag=>true}
+{:address=>["415", "NOVAK", "LN"], :flag=>true}
+{:address=>["412", "NOVAK", "LN"], :flag=>true}
+{:address=>["315", "NOVAK", "LN"], :flag=>true}
+{:address=>["405", "NOVAK", "LN"], :flag=>true}
+{:address=>["425", "NOVAK", "LN"], :flag=>true}
+{:address=>["301", "NOVAK", "LN"], :flag=>true}
+{:address=>["423", "NOVAK", "LN"], :flag=>true}
+{:address=>["421", "NOVAK", "LN"], :flag=>true}
+{:address=>["232", "OLYMPIC", "PL"], :flag=>true}
+{:address=>["238", "OLYMPIC", "PL"], :flag=>true}
+{:address=>["241", "OLYMPIC", "PL"], :flag=>true}
+{:address=>["233", "OLYMPIC", "PL"], :flag=>true}
+{:address=>["171", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["208", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["216", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["162", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["188", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["222", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["228", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["181", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["170", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["160", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["155", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["185", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["180", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["205", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["161", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["213", "OLYMPIC", "WAY"], :flag=>true}
+{:address=>["23634", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23439", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23835", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23434", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25914", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26650", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["27000", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23646", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24443", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26238", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26210", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23418", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23928", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24811", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24800", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["27040", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26100", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23610", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23250", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23231", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26460", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26108", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26620", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25250", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26448", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23830", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26136", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23201", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23826", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24823", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23221", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23440", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24805", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24620", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["27020", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25400", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26454", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26830", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23858", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26632", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24001", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23800", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24432", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26430", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24433", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24300", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23428", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23647", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23213", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24441", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["27030", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23241", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23446", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25101", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26010", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23616", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23620", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23653", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24645", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24615", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24415", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23655", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23203", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24816", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24852", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24426", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24425", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24619", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24846", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24141", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24453", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24101", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25015", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25526", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25006", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25036", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24860", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25120", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26022", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26002", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["27050", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25700", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25802", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25104", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26128", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25630", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26112", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25608", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26114", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26120", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25614", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26212", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26032", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26116", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25626", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25622", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26026", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26110", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26030", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26218", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25624", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26228", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26216", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25628", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26028", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26224", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25634", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25618", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26124", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26220", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25632", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26214", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26034", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25616", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26200", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25636", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25642", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25620", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26122", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23301", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23235", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23233", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23229", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23217", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23219", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23227", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23223", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23303", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23436", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23424", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23422", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23416", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23406", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23718", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24817", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24602", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23440", "1/2", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25009", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25600", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25246", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25330", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23321", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23319", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23325", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25440", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25026", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25028", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25125", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23205", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23215", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23311", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["23313", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25340", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26024", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24050", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["24130", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25300", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25215", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["25350", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26420", "PACIFIC", "HWY", "S"], :flag=>true}
+{:address=>["26518", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26431", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26509", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26430", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26504", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26510", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26501", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26515", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26721", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26714", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26706", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26715", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26709", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26631", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26623", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26617", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26609", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26531", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26525", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26526", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26530", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26608", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26618", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["26628", "PRINCETON", "AVE"], :flag=>true}
+{:address=>["631", "RACHAEL", "PL"], :flag=>true}
+{:address=>["620", "RACHAEL", "PL"], :flag=>true}
+{:address=>["627", "RACHAEL", "PL"], :flag=>true}
+{:address=>["615", "RACHAEL", "PL"], :flag=>true}
+{:address=>["701", "RACHAEL", "PL"], :flag=>true}
+{:address=>["626", "RACHAEL", "PL"], :flag=>true}
+{:address=>["603", "RACHAEL", "PL"], :flag=>true}
+{:address=>["621", "RACHAEL", "PL"], :flag=>true}
+{:address=>["616", "RACHAEL", "PL"], :flag=>true}
+{:address=>["609", "RACHAEL", "PL"], :flag=>true}
+{:address=>["320", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["504", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["514", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["417", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["426", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["512", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["418", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["437", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["445", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["441", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["438", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["444", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["321", "RAMSAY", "WAY"], :flag=>true}
+{:address=>["407", "REITEN", "RD"], :flag=>true}
+{:address=>["845", "REITEN", "RD"], :flag=>true}
+{:address=>["927", "REITEN", "RD"], :flag=>true}
+{:address=>["434", "REITEN", "RD"], :flag=>true}
+{:address=>["825", "REITEN", "RD"], :flag=>true}
+{:address=>["905", "REITEN", "RD"], :flag=>true}
+{:address=>["812", "REITEN", "RD"], :flag=>true}
+{:address=>["537", "REITEN", "RD"], :flag=>true}
+{:address=>["821", "REITEN", "RD"], :flag=>true}
+{:address=>["493", "REITEN", "RD"], :flag=>true}
+{:address=>["722", "REITEN", "RD"], :flag=>true}
+{:address=>["806", "REITEN", "RD"], :flag=>true}
+{:address=>["926", "REITEN", "RD"], :flag=>true}
+{:address=>["469", "REITEN", "RD"], :flag=>true}
+{:address=>["538", "REITEN", "RD"], :flag=>true}
+{:address=>["815", "REITEN", "RD"], :flag=>true}
+{:address=>["858", "REITEN", "RD"], :flag=>true}
+{:address=>["818", "REITEN", "RD"], :flag=>true}
+{:address=>["617", "REITEN", "RD"], :flag=>true}
+{:address=>["700", "REITEN", "RD"], :flag=>true}
+{:address=>["913", "REITEN", "RD"], :flag=>true}
+{:address=>["919", "REITEN", "RD"], :flag=>true}
+{:address=>["502", "REITEN", "RD"], :flag=>true}
+{:address=>["824", "REITEN", "RD"], :flag=>true}
+{:address=>["720", "REITEN", "RD"], :flag=>true}
+{:address=>["855", "REITEN", "RD"], :flag=>true}
+{:address=>["844", "REITEN", "RD"], :flag=>true}
+{:address=>["433", "REITEN", "RD"], :flag=>true}
+{:address=>["922", "REITEN", "RD"], :flag=>true}
+{:address=>["736", "REITEN", "RD"], :flag=>true}
+{:address=>["838", "REITEN", "RD"], :flag=>true}
+{:address=>["712", "REITEN", "RD"], :flag=>true}
+{:address=>["803", "REITEN", "RD"], :flag=>true}
+{:address=>["508", "REITEN", "RD"], :flag=>true}
+{:address=>["724", "REITEN", "RD"], :flag=>true}
+{:address=>["906", "REITEN", "RD"], :flag=>true}
+{:address=>["455", "REITEN", "RD"], :flag=>true}
+{:address=>["530", "REITEN", "RD"], :flag=>true}
+{:address=>["840", "REITEN", "RD"], :flag=>true}
+{:address=>["814", "REITEN", "RD"], :flag=>true}
+{:address=>["1005", "REITEN", "RD"], :flag=>true}
+{:address=>["100", "REITEN", "RD"], :flag=>true}
+{:address=>["25227", "REITH", "RD"], :flag=>true}
+{:address=>["25111", "REITH", "RD"], :flag=>true}
+{:address=>["25215", "REITH", "RD"], :flag=>true}
+{:address=>["25219", "REITH", "RD"], :flag=>true}
+{:address=>["25209", "REITH", "RD"], :flag=>true}
+{:address=>["3807", "REITH", "RD"], :flag=>true}
+{:address=>["25125", "REITH", "RD"], :flag=>true}
+{:address=>["25119", "REITH", "RD"], :flag=>true}
+{:address=>["3808", "REITH", "RD"], :flag=>true}
+{:address=>["331", "RIDGEVIEW", "DR"], :flag=>true}
+{:address=>["333", "RIDGEVIEW", "DR"], :flag=>true}
+{:address=>["335", "RIDGEVIEW", "DR"], :flag=>true}
+{:address=>["325", "RIDGEVIEW", "DR"], :flag=>true}
+{:address=>["329", "RIDGEVIEW", "DR"], :flag=>true}
+{:address=>["4315", "RIVERVIEW", "BLVD", "S"], :flag=>true}
+{:address=>["26901", "SAXON", "CT"], :flag=>true}
+{:address=>["26910", "SAXON", "CT"], :flag=>true}
+{:address=>["26900", "SAXON", "CT"], :flag=>true}
+{:address=>["26909", "SAXON", "CT"], :flag=>true}
+{:address=>["26923", "SAXON", "CT"], :flag=>true}
+{:address=>["26924", "SAXON", "CT"], :flag=>true}
+{:address=>["26915", "SAXON", "CT"], :flag=>true}
+{:address=>["26922", "SAXON", "CT"], :flag=>true}
+{:address=>["26916", "SAXON", "CT"], :flag=>true}
+{:address=>["26902", "SAXON", "CT"], :flag=>true}
+{:address=>["26919", "SAXON", "CT"], :flag=>true}
+{:address=>["906", "1/2", "W", "SMITH", "ST"], :flag=>true}
+{:address=>["4511", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4622", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4516", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4616", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4517", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4610", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4523", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4611", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4604", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4605", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4630", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4623", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4617", "SOMERSET", "CT"], :flag=>true}
+{:address=>["4102", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4110", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4117", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4132", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4404", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4125", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4116", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4109", "SOMERSET", "LN"], :flag=>true}
+{:address=>["26426", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4411", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4405", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4101", "SOMERSET", "LN"], :flag=>true}
+{:address=>["26407", "SOMERSET", "LN"], :flag=>true}
+{:address=>["26432", "SOMERSET", "LN"], :flag=>true}
+{:address=>["26425", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4422", "SOMERSET", "LN"], :flag=>true}
+{:address=>["26415", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4417", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4025", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4028", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4504", "SOMERSET", "LN"], :flag=>true}
+{:address=>["26501", "SOMERSET", "LN"], :flag=>true}
+{:address=>["26421", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4505", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4124", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4416", "SOMERSET", "LN"], :flag=>true}
+{:address=>["4131", "SOMERSET", "LN"], :flag=>true}
+{:address=>["26715", "STANFORD", "CT"], :flag=>true}
+{:address=>["26707", "STANFORD", "CT"], :flag=>true}
+{:address=>["26710", "STANFORD", "CT"], :flag=>true}
+{:address=>["26703", "STANFORD", "CT"], :flag=>true}
+{:address=>["26714", "STANFORD", "CT"], :flag=>true}
+{:address=>["26716", "STANFORD", "CT"], :flag=>true}
+{:address=>["26713", "STANFORD", "CT"], :flag=>true}
+{:address=>["26702", "STANFORD", "CT"], :flag=>true}
+{:address=>["830", "STETSON", "AVE"], :flag=>true}
+{:address=>["824", "STETSON", "AVE"], :flag=>true}
+{:address=>["811", "STETSON", "AVE"], :flag=>true}
+{:address=>["856", "STETSON", "AVE"], :flag=>true}
+{:address=>["857", "STETSON", "AVE"], :flag=>true}
+{:address=>["821", "STETSON", "AVE"], :flag=>true}
+{:address=>["805", "STETSON", "AVE"], :flag=>true}
+{:address=>["845", "STETSON", "AVE"], :flag=>true}
+{:address=>["860", "STETSON", "AVE"], :flag=>true}
+{:address=>["866", "STETSON", "AVE"], :flag=>true}
+{:address=>["810", "STETSON", "AVE"], :flag=>true}
+{:address=>["804", "STETSON", "AVE"], :flag=>true}
+{:address=>["841", "STETSON", "AVE"], :flag=>true}
+{:address=>["818", "STETSON", "AVE"], :flag=>true}
+{:address=>["833", "STETSON", "AVE"], :flag=>true}
+{:address=>["839", "STONEBURNER", "LN"], :flag=>true}
+{:address=>["858", "STONEBURNER", "LN"], :flag=>true}
+{:address=>["836", "STONEBURNER", "LN"], :flag=>true}
+{:address=>["847", "STONEBURNER", "LN"], :flag=>true}
+{:address=>["850", "STONEBURNER", "LN"], :flag=>true}
+{:address=>["833", "STONEBURNER", "LN"], :flag=>true}
+{:address=>["857", "STONEBURNER", "LN"], :flag=>true}
+{:address=>["844", "STONEBURNER", "LN"], :flag=>true}
+{:address=>["3616", "STRATTFORD", "CT"], :flag=>true}
+{:address=>["3536", "STRATTFORD", "CT"], :flag=>true}
+{:address=>["3604", "STRATTFORD", "CT"], :flag=>true}
+{:address=>["3544", "STRATTFORD", "CT"], :flag=>true}
+{:address=>["3530", "STRATTFORD", "CT"], :flag=>true}
+{:address=>["3612", "STRATTFORD", "CT"], :flag=>true}
+{:address=>["3608", "STRATTFORD", "CT"], :flag=>true}
+{:address=>["3535", "STRATTFORD", "CT"], :flag=>true}
+{:address=>["3543", "STRATTFORD", "CT"], :flag=>true}
+{:address=>["3607", "STRATTFORD", "CT"], :flag=>true}
+{:address=>["3611", "STRATTFORD", "CT"], :flag=>true}
+{:address=>["816", "TACOMA", "ST"], :flag=>true}
+{:address=>["715", "TACOMA", "ST"], :flag=>true}
+{:address=>["815", "TACOMA", "ST"], :flag=>true}
+{:address=>["804", "TACOMA", "ST"], :flag=>true}
+{:address=>["807", "TACOMA", "ST"], :flag=>true}
+{:address=>["718", "TACOMA", "ST"], :flag=>true}
+{:address=>["722", "TACOMA", "ST"], :flag=>true}
+{:address=>["203", "THOMPSON", "AVE"], :flag=>true}
+{:address=>["909", "TILDEN", "AVE"], :flag=>true}
+{:address=>["825", "TILDEN", "AVE"], :flag=>true}
+{:address=>["849", "TILDEN", "AVE"], :flag=>true}
+{:address=>["903", "TILDEN", "AVE"], :flag=>true}
+{:address=>["833", "TILDEN", "AVE"], :flag=>true}
+{:address=>["855", "TILDEN", "AVE"], :flag=>true}
+{:address=>["921", "TILDEN", "AVE"], :flag=>true}
+{:address=>["841", "TILDEN", "AVE"], :flag=>true}
+{:address=>["863", "TILDEN", "AVE"], :flag=>true}
+{:address=>["18545", "SE", "TIMBERLANE", "BLVD"], :flag=>true}
+{:address=>["18534", "SE", "TIMBERLANE", "BLVD"], :flag=>true}
+{:address=>["18527", "SE", "TIMBERLANE", "BLVD"], :flag=>true}
+{:address=>["18546", "SE", "TIMBERLANE", "BLVD"], :flag=>true}
+{:address=>["18539", "SE", "TIMBERLANE", "BLVD"], :flag=>true}
+{:address=>["18528", "SE", "TIMBERLANE", "BLVD"], :flag=>true}
+{:address=>["18521", "SE", "TIMBERLANE", "BLVD"], :flag=>true}
+{:address=>["18540", "SE", "TIMBERLANE", "BLVD"], :flag=>true}
+{:address=>["18533", "SE", "TIMBERLANE", "BLVD"], :flag=>true}
+{:address=>["18522", "SE", "TIMBERLANE", "BLVD"], :flag=>true}
+{:address=>["26310", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26413", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26631", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26640", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26304", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26421", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26645", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26672", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26632", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26305", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26427", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26664", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26626", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26313", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26433", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26658", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26618", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26403", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26650", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26612", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26314", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26409", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26623", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26644", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26606", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26308", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26415", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26635", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26636", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26302", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26423", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26649", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26670", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26630", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26307", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26429", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26662", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26624", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26315", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26435", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26654", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26616", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26405", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26648", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26610", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26312", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26411", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26627", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26642", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26604", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26306", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26417", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26641", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26634", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26303", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26425", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26653", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26668", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26628", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26311", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26431", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26660", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26622", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26317", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26652", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26614", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26316", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26407", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26646", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["26608", "TIMBERLANE", "DR", "SE"], :flag=>true}
+{:address=>["226", "TITUSVILLE", "ALY"], :flag=>true}
+{:address=>["230", "TITUSVILLE", "ALY"], :flag=>true}
+{:address=>["18010", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18825", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18128", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18441", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18230", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18801", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18211", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18110", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["19244", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18821", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18401", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18030", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["19414", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18430", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18221", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18547", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["19432", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["21237", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["19639", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18015", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18250", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18437", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["19240", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18429", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18116", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18119", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18114", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18403", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18123", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18112", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18411", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18129", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18124", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18439", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18435", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18417", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18122", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18118", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18419", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18126", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18425", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18111", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18421", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18777", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18817", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18120", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18431", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18709", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18715", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18901", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18407", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["18519", "EAST", "VALLEY", "HWY"], :flag=>true}
+{:address=>["827", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["23803", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["828", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["807", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["804", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["809", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["28009", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["27701", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["28203", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["28014", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["28225", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["28327", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["28418", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["18430", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["19011", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["805", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["18012", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["19030", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["19219", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["1022", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["19808", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["19033", "WEST", "VALLEY", "HWY", "S"], :flag=>true}
+{:address=>["926", "VALLEY", "PL"], :flag=>true}
+{:address=>["921", "VALLEY", "PL"], :flag=>true}
+{:address=>["924", "VALLEY", "PL"], :flag=>true}
+{:address=>["925", "VALLEY", "PL"], :flag=>true}
+{:address=>["923", "VALLEY", "PL"], :flag=>true}
+{:address=>["928", "VALLEY", "PL"], :flag=>true}
+{:address=>["414", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["415", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["406", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["419", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["420", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["722", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["438", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["535", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["711", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["632", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["737", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["609", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["604", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["811", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["540", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["625", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["712", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["427", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["506", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["705", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["434", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["725", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["615", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["646", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["534", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["635", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["710", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["435", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["525", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["719", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["426", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["640", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["731", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["603", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["612", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["853", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["621", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["704", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["526", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["736", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["511", "VAN", "DE", "VANTER", "AVE"], :flag=>true}
+{:address=>["518", "VIEW", "PL"], :flag=>true}
+{:address=>["519", "VIEW", "PL"], :flag=>true}
+{:address=>["530", "VIEW", "PL"], :flag=>true}
+{:address=>["512", "VIEW", "PL"], :flag=>true}
+{:address=>["525", "VIEW", "PL"], :flag=>true}
+{:address=>["524", "VIEW", "PL"], :flag=>true}
+{:address=>["513", "VIEW", "PL"], :flag=>true}
+{:address=>["531", "VIEW", "PL"], :flag=>true}
+{:address=>["1245", "WEILAND", "ST"], :flag=>true}
+{:address=>["1254", "WEILAND", "ST"], :flag=>true}
+{:address=>["1256", "WEILAND", "ST"], :flag=>true}
+{:address=>["1258", "WEILAND", "ST"], :flag=>true}
+{:address=>["1259", "WEILAND", "ST"], :flag=>true}
+{:address=>["1255", "WEILAND", "ST"], :flag=>true}
+{:address=>["23925", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23920", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23905", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23913", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23910", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23907", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23917", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23908", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23909", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23921", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23924", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23906", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["23911", "WESTVIEW", "CT"], :flag=>true}
+{:address=>["706", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["847", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["738", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["856", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["514", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["715", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["540", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["821", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["754", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["737", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["745", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["812", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["607", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["834", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["537", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["714", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["746", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["848", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["522", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["723", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["550", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["831", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["505", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["606", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["818", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["525", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["616", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["839", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["904", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["730", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["862", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["840", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["528", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["731", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["815", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["808", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["826", "WOODLAND", "WAY"], :flag=>true}
+{:address=>["735", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["737", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["812", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["744", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["730", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["703", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["725", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["749", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["806", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["740", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["709", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["729", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["805", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["750", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["736", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["717", "WYNWOOD", "DR"], :flag=>true}
+{:address=>["26418", "YALE", "CT"], :flag=>true}
+{:address=>["26434", "YALE", "CT"], :flag=>true}
+{:address=>["26422", "YALE", "CT"], :flag=>true}
+{:address=>["26428", "YALE", "CT"], :flag=>true}
+{:address=>["26421", "YALE", "CT"], :flag=>true}
